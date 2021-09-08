@@ -36,7 +36,8 @@ De klant verwacht een afgewerkte website denk dus ook zeker aan onderstaande pun
 * Let op details.
 
 ## Deployment
-Plaats je website online. Zorg dat deze minstens tot januari online blijft staan. Je kan je website online plaatsen met behulp van combell (hosting door de school aangeboden), github pages of eigen hosting.
+Plaats je website online. Zorg dat deze minstens tot januari online blijft staan.
+Je kan je website online plaatsen met behulp van combell (hosting door de school aangeboden), github pages of eigen hosting.
 
 ## Afspraken
 * Schrijf alle code zelf (maak dus geen gebruik van frameworks)

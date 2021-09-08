@@ -44,6 +44,7 @@ Plaats je website online. Zorg dat deze minstens tot januari online blijft staan
 * Werk individueel! Dit is een individuele opdracht. Elke vorm van samenwerken wordt beschouwd als fraude.
 
 ## Deadline
+11/11/2021 23:59
 
 
 

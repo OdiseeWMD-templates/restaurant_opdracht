@@ -17,7 +17,7 @@ De klan heeft al een duidelijk beeld van wat hij ongeveer wil. Hieronder vind je
 * Het moet mogelijk zijn om het restaurant te contacteren via de website.
 * Voorzie ergens op de website de openingsuren.
 * De locatie moet aangeduid zijn. Maak hierbij ook gebruik van een google maps integratie.
-* Voorzie een reservatiesysteem. Klanten moeten een tafel kunnen boeken. Maak hiervoor gebruik van de geleverde API. Duidt ook aan op welke dagen er nog plaatsen vrij zijn. 
+* Voorzie een reservatiesysteem. Klanten moeten een tafel kunnen boeken. Maak hiervoor gebruik van [de geleverde API](restaurantAPI.http). Duidt ook aan op welke dagen er nog plaatsen vrij zijn. 
 * Voorzie een manier om cadeaubonnen aan te schaffen. Wanneer een cadeaubon aangeschaft wordt moet er een link gegenereerd worden waarbij de klant de bon kan ophalen. (Er wordt hier niet verwacht dat je een bon of pagina genereerd, maak gebruik van url parameters). Klanten die een speciale kortingscode hebben kunnen cadeaubonnen met korting aankopen.
 
 

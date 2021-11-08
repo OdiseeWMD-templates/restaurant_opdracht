@@ -10,7 +10,7 @@ Het interieur van het restaurant is reeds klaar en is gebaseerd op onderstaand k
 ![](/restaurant.png)
 
 ## Verreisten
-De klan heeft al een duidelijk beeld van wat hij ongeveer wil. Hieronder vind je een oplijsting van wat hij minimaal wil:
+De klant heeft al een duidelijk beeld van wat hij ongeveer wil. Hieronder vind je een oplijsting van wat hij minimaal wil:
 * Welkomstpagina met informatie over het restaurant
 * De menukaart van het restaurant moet raadpleegbaar zijn. De kaart bestaat uit verschillende gerechten en dranken alsook zijn er enkele volledige menu's te verkrijgen
 * Er zijn 2 zalen beschikbaar voor feesten of vergaderingen. Zorg ervoor dat hier info over terug te vinden is.
